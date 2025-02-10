@@ -12,7 +12,7 @@
 A passionate developer, a creator, and a free project sharer. Here’s a bit about me:
 
 - 🔭 **Check out my repositories** to see what I’m working on!  
-- 🌱 I’m **18 years old** and always learning new technologies.  
+- 🌱 I’m **17 years old** and always learning new technologies.  
 - 👯 I believe in sharing **paid projects for free** to help the community grow!  
 
 ## My Highlights
@@ -24,5 +24,5 @@ A passionate developer, a creator, and a free project sharer. Here’s a bit abo
 ## Connect with Me
 
 - 📱 **My Telegram Account**: [Account](https://t.me/SeoF88)  
-- 🌐 **My Telegram Channel**: [Channel](https://t.me/pyr888)   
+- 🌐 **My Telegram Channel**: [Channel](https://t.me/githon)   
 
